@@ -1,0 +1,45 @@
+body{
+  padding: 5px;
+}
+main{
+  background-color: rgb(244, 244, 244);
+  padding: 10px;
+}
+header{
+  background-color: rgb(31, 31, 31);
+  color: white;
+  margin: auto;
+  border-radius: 15px 15px 0px 0px;
+}
+ul{
+  display: contents;
+}
+li{
+  display: inline-block;
+  font-size: 20px;
+  padding: 15px;
+}
+li:hover{
+  background-color: rgb(73, 73, 73);
+  border-radius: 15px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(162, 200, 251);
+}
+p{
+  column-count: 4;
+  column-rule: 2px solid;
+  text-align: justify;
+  font-size: 18px;
+}
+footer{
+  background-color: rgb(10, 10, 10);
+  color: white;
+  text-align: center;
+  padding: 1px;
+  border-radius: 0px 0px 15px 15px;
+}
